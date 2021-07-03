@@ -1,2 +1,5 @@
-package Projeto;public class Mensagem {
+package Projeto;
+
+public class Mensagem
+{
 }
